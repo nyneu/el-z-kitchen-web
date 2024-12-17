@@ -1,2 +1,2 @@
-# el-z-kitchen-web
+# elz-kitchen
 Web
